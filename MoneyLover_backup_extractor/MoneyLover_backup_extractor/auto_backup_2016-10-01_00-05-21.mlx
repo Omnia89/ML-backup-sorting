@@ -1,0 +1,3596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export-database name='/data/user/0/com.bookmark.money/databases/MoneyLoverS2 backup_date="2016-10-01" app_version="android-3.4.37"'>
+    <table name='transactions'>
+        <row>
+            <col name='id'>1</col>
+            <col name='amount'>60</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-01</col>
+            <col name='cat_id'>119</col>
+            <col name='note'>ricarica carta</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>abf496a1bc2c4293a5e5bdf32cf687c6</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>ricarica carta</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>2</col>
+            <col name='amount'>4564.05</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-01</col>
+            <col name='cat_id'>53</col>
+            <col name='note'>Saldo iniziale</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>3f0070de07fa437d8795ec9d7bb2c364</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>saldo iniziale</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>3</col>
+            <col name='amount'>1</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-08-03</col>
+            <col name='cat_id'>47</col>
+            <col name='note'>spese bancarie</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>11e121a177bc4f9f8d144f1b476fe680</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spese bancarie</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>4</col>
+            <col name='amount'>35.07</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-04</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>73fb90beb75a45e5aac1756c152a4518</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>5</col>
+            <col name='amount'>40</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-11</col>
+            <col name='cat_id'>48</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>820627909d53451ba3092c9a8571643e</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>6</col>
+            <col name='amount'>50</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-14</col>
+            <col name='cat_id'>48</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>ae6aec1bfdd44f5fb03e12f02d7c6de4</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>7</col>
+            <col name='amount'>2837.01</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-15</col>
+            <col name='cat_id'>53</col>
+            <col name='note'>Adecco - buona uscita</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>cb02faf44bc04572bd09df37867ab148</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>adecco - buona uscita</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>9</col>
+            <col name='amount'>70</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-18</col>
+            <col name='cat_id'>48</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>67db060b75eb4554816970c4df0c98e9</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>10</col>
+            <col name='amount'>19.99</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-18</col>
+            <col name='cat_id'>21</col>
+            <col name='note'>Cavo usb C</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>aeed69e508a1470b87dbb1a096f6de81</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>cavo usb c</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>11</col>
+            <col name='amount'>120</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-18</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Treno per ferie</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>30149707f40e4c4f9e54f2c0956c95f5</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>treno per ferie</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>12</col>
+            <col name='amount'>50.04</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-20</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>5953a1ea58f34da1b69b839bf8850eaf</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>13</col>
+            <col name='amount'>70</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-25</col>
+            <col name='cat_id'>48</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>0fbcd9141c5940cb8f1c83575a83ee88</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>14</col>
+            <col name='amount'>1330</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-07-28</col>
+            <col name='cat_id'>53</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>c41a83d37c37436ab351845b9c7cb5cb</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>15</col>
+            <col name='amount'>1</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-08-03</col>
+            <col name='cat_id'>47</col>
+            <col name='note'>spese bancarie</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>730a7c0c95ec4fa882de22446eab34de</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spese bancarie</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>16</col>
+            <col name='amount'>2.71</col>
+            <col name='created_date'>2016-08-03</col>
+            <col name='display_date'>2016-08-03</col>
+            <col name='cat_id'>47</col>
+            <col name='note'>tasse bancarie</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>fc6abdf2cb034da0bbf4d24fcf5ac04f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>tasse bancarie</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>17</col>
+            <col name='amount'>2.99</col>
+            <col name='created_date'>2016-08-04</col>
+            <col name='display_date'>2016-08-04</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Pranzo</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>fd4db6a067cb41219a62e11117e63001</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>pranzo</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>18</col>
+            <col name='amount'>0.2</col>
+            <col name='created_date'>2016-08-04</col>
+            <col name='display_date'>2016-08-04</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>9cd83a8dac954a3bba5907c8d6adecca</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>19</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-08-04</col>
+            <col name='display_date'>2016-08-04</col>
+            <col name='cat_id'>5</col>
+            <col name='note'>Ricarica</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>f209fa2377f84f98b17ab5ed384b163e</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>ricarica</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>20</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-08-04</col>
+            <col name='display_date'>2016-08-05</col>
+            <col name='cat_id'>15</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>7e2508b647eb441b8e4eae2bfcc777b0</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>21</col>
+            <col name='amount'>0.3</col>
+            <col name='created_date'>2016-08-05</col>
+            <col name='display_date'>2016-08-05</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Caffè e acqua</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>a59f3fe905de4093b0e8ea7aef7e5e11</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>caffe e acqua</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>22</col>
+            <col name='amount'>0.1</col>
+            <col name='created_date'>2016-08-05</col>
+            <col name='display_date'>2016-08-05</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Caffè</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>de9aa654bd4d407c958107b2ed802fcc</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>caffe</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>23</col>
+            <col name='amount'>2.8</col>
+            <col name='created_date'>2016-08-05</col>
+            <col name='display_date'>2016-08-05</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Autostrada</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>6bb4b3e3cd75433c9296f29491398ab8</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>autostrada</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>24</col>
+            <col name='amount'>3.22</col>
+            <col name='created_date'>2016-08-06</col>
+            <col name='display_date'>2016-08-06</col>
+            <col name='cat_id'>1</col>
+            <col name='note'>Spesa sfizio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>fc102e5269f44dfb9c8c42ce8de40497</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesa sfizio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>25</col>
+            <col name='amount'>35.33</col>
+            <col name='created_date'>2016-08-06</col>
+            <col name='display_date'>2016-08-06</col>
+            <col name='cat_id'>31</col>
+            <col name='note'>Spesa cad</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>de040bfe510246bcbf5f65f3af0171a4</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesa cad</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>26</col>
+            <col name='amount'>10</col>
+            <col name='created_date'>2016-08-06</col>
+            <col name='display_date'>2016-08-06</col>
+            <col name='cat_id'>3</col>
+            <col name='note'>Giro</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>b89e5b6acb164d7e931bd1808b1cfd1d</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>giro</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>27</col>
+            <col name='amount'>9.5</col>
+            <col name='created_date'>2016-08-07</col>
+            <col name='display_date'>2016-08-07</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>70eeac8938c04a0a8f09014baaed51cf</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>28</col>
+            <col name='amount'>35.04</col>
+            <col name='created_date'>2016-08-07</col>
+            <col name='display_date'>2016-08-07</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>062671f6dc9745cba694999b796df774</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>29</col>
+            <col name='amount'>2</col>
+            <col name='created_date'>2016-08-08</col>
+            <col name='display_date'>2016-08-08</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Ricarica chiavetta</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>318fff42e8a04f40b686411099b46722</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>ricarica chiavetta</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>30</col>
+            <col name='amount'>2.37</col>
+            <col name='created_date'>2016-08-08</col>
+            <col name='display_date'>2016-08-08</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>1bcdc39095a04113ad7bab16f6426b37</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>31</col>
+            <col name='amount'>1.2</col>
+            <col name='created_date'>2016-08-08</col>
+            <col name='display_date'>2016-08-08</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Ricarica chiavetta</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>3141ba7d9e2f4726a4cd5e721ded2284</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>ricarica chiavetta</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>32</col>
+            <col name='amount'>2.74</col>
+            <col name='created_date'>2016-08-09</col>
+            <col name='display_date'>2016-08-09</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>c3a12275ae54422bb69fd4c00f59dddc</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>33</col>
+            <col name='amount'>8</col>
+            <col name='created_date'>2016-08-10</col>
+            <col name='display_date'>2016-08-10</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>e37183fe15b84bbcb5fe635c2366ebfc</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>34</col>
+            <col name='amount'>1.75</col>
+            <col name='created_date'>2016-08-12</col>
+            <col name='display_date'>2016-08-12</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>6c593213a0d2401596edbfa78ade767b</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>35</col>
+            <col name='amount'>35</col>
+            <col name='created_date'>2016-08-12</col>
+            <col name='display_date'>2016-08-12</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Pizza asporto</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>708cffa6291449bdbca24f0313adaace</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>pizza asporto</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>36</col>
+            <col name='amount'>10.5</col>
+            <col name='created_date'>2016-08-13</col>
+            <col name='display_date'>2016-08-12</col>
+            <col name='cat_id'>3</col>
+            <col name='note'>Guinnes</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>fba999faa26a46ff8b7359565d31c6c7</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>guinnes</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>37</col>
+            <col name='amount'>17.6</col>
+            <col name='created_date'>2016-08-13</col>
+            <col name='display_date'>2016-08-13</col>
+            <col name='cat_id'>19</col>
+            <col name='note'>Xavate</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>dfe18b1fca0f47b4bcd13d1fdc029c7f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>xavate</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>38</col>
+            <col name='amount'>15.95</col>
+            <col name='created_date'>2016-08-13</col>
+            <col name='display_date'>2016-08-13</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Burger</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>cb6e9686b75b4e27b462c60fac8d0ec3</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>burger</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>39</col>
+            <col name='amount'>12.15</col>
+            <col name='created_date'>2016-08-13</col>
+            <col name='display_date'>2016-08-13</col>
+            <col name='cat_id'>42</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>b45fcb8018774b28909ec9ec03b1225f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>40</col>
+            <col name='amount'>49.6</col>
+            <col name='created_date'>2016-08-13</col>
+            <col name='display_date'>2016-08-13</col>
+            <col name='cat_id'>20</col>
+            <col name='note'>Valigia</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>4b57e0ec91c142028fb91c5bd9cb1eb2</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>valigia</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>41</col>
+            <col name='amount'>16</col>
+            <col name='created_date'>2016-08-13</col>
+            <col name='display_date'>2016-08-13</col>
+            <col name='cat_id'>18</col>
+            <col name='note'>Mudande</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>8e9ef3a395b548de817a9b11f251ff29</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>mudande</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>42</col>
+            <col name='amount'>23.34</col>
+            <col name='created_date'>2016-08-13</col>
+            <col name='display_date'>2016-08-13</col>
+            <col name='cat_id'>17</col>
+            <col name='note'>Spesa</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>99aae253d1a54d28a3c1abb67cc51c93</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesa</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>43</col>
+            <col name='amount'>4.49</col>
+            <col name='created_date'>2016-08-14</col>
+            <col name='display_date'>2016-08-13</col>
+            <col name='cat_id'>21</col>
+            <col name='note'>Money lover premium</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>d2b63540dfd84944add6df45fd4436cb</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>money lover premium</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>44</col>
+            <col name='amount'>35</col>
+            <col name='created_date'>2016-08-14</col>
+            <col name='display_date'>2016-08-14</col>
+            <col name='cat_id'>121</col>
+            <col name='note'>Spesa per grigliata</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>7a5af83995a240d492bc5591998b268f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesa per grigliata</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>45</col>
+            <col name='amount'>3</col>
+            <col name='created_date'>2016-08-15</col>
+            <col name='display_date'>2016-08-15</col>
+            <col name='cat_id'>1</col>
+            <col name='note'>Patatine</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>4de2732376ac4b119133242afa6048bc</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>patatine</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>46</col>
+            <col name='amount'>10</col>
+            <col name='created_date'>2016-08-15</col>
+            <col name='display_date'>2016-08-15</col>
+            <col name='cat_id'>50</col>
+            <col name='note'>Regalino</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>2136c8255257438d97e91e5fce848672</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>regalino</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>47</col>
+            <col name='amount'>4</col>
+            <col name='created_date'>2016-08-15</col>
+            <col name='display_date'>2016-08-15</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>ebf16b12a1724085ba400a5829fd5012</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>48</col>
+            <col name='amount'>5</col>
+            <col name='created_date'>2016-08-15</col>
+            <col name='display_date'>2016-08-15</col>
+            <col name='cat_id'>1</col>
+            <col name='note'>Sfizio zenzero</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>7645c47cf8a848d8802cc9878b800f88</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>sfizio zenzero</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>49</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-08-18</col>
+            <col name='display_date'>2016-08-18</col>
+            <col name='cat_id'>35</col>
+            <col name='note'>Green Peace</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>39f4bda5256a4711b37ac49bc75e1e4f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>green peace</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>50</col>
+            <col name='amount'>3.4</col>
+            <col name='created_date'>2016-08-18</col>
+            <col name='display_date'>2016-08-18</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>afb29450d06c45ed8edca64370b83e11</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>51</col>
+            <col name='amount'>639.4</col>
+            <col name='created_date'>2016-08-18</col>
+            <col name='display_date'>2016-08-18</col>
+            <col name='cat_id'>26</col>
+            <col name='note'>Hotel</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>e90b1f236a8f41f39062823f7e13ddc3</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>hotel</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>52</col>
+            <col name='amount'>14</col>
+            <col name='created_date'>2016-08-18</col>
+            <col name='display_date'>2016-08-18</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Burger</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>6695b307b3b4499597368d1f55bba796</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>burger</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>53</col>
+            <col name='amount'>2</col>
+            <col name='created_date'>2016-08-18</col>
+            <col name='display_date'>2016-08-18</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>2e0d3f902c064a3a81baea570c25e0e6</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>54</col>
+            <col name='amount'>34.51</col>
+            <col name='created_date'>2016-08-18</col>
+            <col name='display_date'>2016-08-18</col>
+            <col name='cat_id'>17</col>
+            <col name='note'>Spesa mare</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>bdb2abcc3eb246e2a9d1e583effb2b69</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesa mare</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>55</col>
+            <col name='amount'>50</col>
+            <col name='created_date'>2016-08-19</col>
+            <col name='display_date'>2016-08-19</col>
+            <col name='cat_id'>26</col>
+            <col name='note'>Spiaggia</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>3559e145405a488e966f4068dfaa6224</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spiaggia</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>56</col>
+            <col name='amount'>18.5</col>
+            <col name='created_date'>2016-08-21</col>
+            <col name='display_date'>2016-08-20</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Piada</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>b340c75fdc174d6f827261fba700b560</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>piada</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>57</col>
+            <col name='amount'>4</col>
+            <col name='created_date'>2016-08-21</col>
+            <col name='display_date'>2016-08-20</col>
+            <col name='cat_id'>3</col>
+            <col name='note'>Coca e granita</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>72bea87178004d3aa62d45b6f7f30d95</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>coca e granita</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>58</col>
+            <col name='amount'>5</col>
+            <col name='created_date'>2016-08-21</col>
+            <col name='display_date'>2016-08-21</col>
+            <col name='cat_id'>17</col>
+            <col name='note'>Spesa mare</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>ab55baf07be04b4194ed014e71ca3b8a</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesa mare</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>59</col>
+            <col name='amount'>8</col>
+            <col name='created_date'>2016-08-21</col>
+            <col name='display_date'>2016-08-21</col>
+            <col name='cat_id'>32</col>
+            <col name='note'>Braccialetti</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>1b873c6f6b22423e8d3a5d42c14685a4</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>braccialetti</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>60</col>
+            <col name='amount'>10.99</col>
+            <col name='created_date'>2016-08-23</col>
+            <col name='display_date'>2016-08-22</col>
+            <col name='cat_id'>17</col>
+            <col name='note'>Spesa mare</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>39e86158f7e1401b9f54d602cbe9404d</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesa mare</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>61</col>
+            <col name='amount'>12.3</col>
+            <col name='created_date'>2016-08-23</col>
+            <col name='display_date'>2016-08-21</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Cassoni</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>ae0cd18765fb43cdb48abe0b86c94976</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>cassoni</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>62</col>
+            <col name='amount'>5</col>
+            <col name='created_date'>2016-08-23</col>
+            <col name='display_date'>2016-08-21</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Gelato</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>95bc32c9241a4bb1a8fe87deff1843d0</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gelato</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>63</col>
+            <col name='amount'>43</col>
+            <col name='created_date'>2016-08-24</col>
+            <col name='display_date'>2016-08-23</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Posada</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>4e3661600065418bbfecd5273f12ef59</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>posada</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>64</col>
+            <col name='amount'>2.9</col>
+            <col name='created_date'>2016-08-24</col>
+            <col name='display_date'>2016-08-23</col>
+            <col name='cat_id'>50</col>
+            <col name='note'>Regalino</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>a938b601b7524e03b87996d96d87fb47</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>regalino</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>65</col>
+            <col name='amount'>2.3</col>
+            <col name='created_date'>2016-08-24</col>
+            <col name='display_date'>2016-08-24</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Tram</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>fb0d1421a2024357b8241fd61d46541f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>tram</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>66</col>
+            <col name='amount'>19</col>
+            <col name='created_date'>2016-08-24</col>
+            <col name='display_date'>2016-08-24</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Treno</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>c2b527a849654a5bb731fbea69d09d2b</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>treno</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>67</col>
+            <col name='amount'>26.5</col>
+            <col name='created_date'>2016-08-24</col>
+            <col name='display_date'>2016-08-24</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Treno</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>d2bf334b6fe54842801c118737cc35ca</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>treno</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>68</col>
+            <col name='amount'>320</col>
+            <col name='created_date'>2016-08-25</col>
+            <col name='display_date'>2016-08-25</col>
+            <col name='cat_id'>120</col>
+            <col name='note'>Storno Trapola vacanze</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>eb73335e1a244cbca0d4a9cb9a812bd6</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>storno trapola vacanze</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>69</col>
+            <col name='amount'>11.5</col>
+            <col name='created_date'>2016-08-26</col>
+            <col name='display_date'>2016-08-25</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>ba3f64addcd04a0cbe2a1edc0a3beb85</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>70</col>
+            <col name='amount'>22</col>
+            <col name='created_date'>2016-08-26</col>
+            <col name='display_date'>2016-08-25</col>
+            <col name='cat_id'>24</col>
+            <col name='note'>Suicide squad</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>dde093678662464098258ad00e7fcd38</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>suicide squad</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>{}</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>71</col>
+            <col name='amount'>25</col>
+            <col name='created_date'>2016-08-27</col>
+            <col name='display_date'>2016-08-27</col>
+            <col name='cat_id'>17</col>
+            <col name='note'>Regalino</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>f0226642db8c408cae820f47ec7477c7</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>regalino</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>72</col>
+            <col name='amount'>56.6</col>
+            <col name='created_date'>2016-08-29</col>
+            <col name='display_date'>2016-08-29</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Giappo</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>1c0f06c935d54c218d4636400ae401cf</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>giappo</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>73</col>
+            <col name='amount'>1.75</col>
+            <col name='created_date'>2016-08-29</col>
+            <col name='display_date'>2016-08-29</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>ff2706c74f4a42ad8894a394a143713b</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>74</col>
+            <col name='amount'>1334</col>
+            <col name='created_date'>2016-08-30</col>
+            <col name='display_date'>2016-08-30</col>
+            <col name='cat_id'>53</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>0e77622376154698b00ee5a831dcde16</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>75</col>
+            <col name='amount'>1.57</col>
+            <col name='created_date'>2016-08-31</col>
+            <col name='display_date'>2016-08-31</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>c06e67896cd24c98b126244e4eddd573</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>76</col>
+            <col name='amount'>2.81</col>
+            <col name='created_date'>2016-09-01</col>
+            <col name='display_date'>2016-09-01</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>0b26f6ff24394c9f84aab949bc4ae012</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>77</col>
+            <col name='amount'>80</col>
+            <col name='created_date'>2016-09-01</col>
+            <col name='display_date'>2016-09-01</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Sostituzione gomma bucata</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>5ec3c44ac86340b0b04976d93633f80f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>sostituzione gomma bucata</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>78</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-02</col>
+            <col name='display_date'>2016-09-02</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>9af6b6c5c3954827b4287bedbb958718</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>79</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-02</col>
+            <col name='display_date'>2016-09-02</col>
+            <col name='cat_id'>5</col>
+            <col name='note'>Ricarica</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>d695806aa8924bf1ba55fcdf1b53aeb0</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>ricarica</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>80</col>
+            <col name='amount'>26</col>
+            <col name='created_date'>2016-09-03</col>
+            <col name='display_date'>2016-09-02</col>
+            <col name='cat_id'>121</col>
+            <col name='note'>Uva e dintorni</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>24f38aedaa744a69b1438b4ec7da84e4</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>uva e dintorni</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>81</col>
+            <col name='amount'>12</col>
+            <col name='created_date'>2016-09-03</col>
+            <col name='display_date'>2016-09-03</col>
+            <col name='cat_id'>121</col>
+            <col name='note'>Uva e dintorni</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>cdb7751ba7bb4bacae3fce24503d2157</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>uva e dintorni</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>82</col>
+            <col name='amount'>26</col>
+            <col name='created_date'>2016-09-05</col>
+            <col name='display_date'>2016-09-05</col>
+            <col name='cat_id'>121</col>
+            <col name='note'>Uva e dintorni</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>94be260d481d4609981ab8e618bdf5ac</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>uva e dintorni</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>83</col>
+            <col name='amount'>2</col>
+            <col name='created_date'>2016-09-05</col>
+            <col name='display_date'>2016-09-05</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Ricarica chiavetta</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>a0bd7b2a87114701aee9f5cee982f47c</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>ricarica chiavetta</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>84</col>
+            <col name='amount'>4.59</col>
+            <col name='created_date'>2016-09-07</col>
+            <col name='display_date'>2016-09-07</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Spesina</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>0a2a9d97cf7340c8b486d0a22d43db9f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>spesina</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>85</col>
+            <col name='amount'>1.82</col>
+            <col name='created_date'>2016-09-08</col>
+            <col name='display_date'>2016-09-08</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>34712befd98144a0ad1031d3c5034ca4</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>86</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-09</col>
+            <col name='display_date'>2016-09-08</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>e0fcd6758b2a439db613b98c963b17c0</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>87</col>
+            <col name='amount'>3.5</col>
+            <col name='created_date'>2016-09-09</col>
+            <col name='display_date'>2016-09-09</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>6ac0d38030584eceacd6641f977c5c01</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>88</col>
+            <col name='amount'>15</col>
+            <col name='created_date'>2016-09-09</col>
+            <col name='display_date'>2016-09-09</col>
+            <col name='cat_id'>2</col>
+            <col name='note'>Pizza</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>1765d01b32824272809d25ce52ab0de4</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>pizza</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>89</col>
+            <col name='amount'>1.2</col>
+            <col name='created_date'>2016-09-12</col>
+            <col name='display_date'>2016-09-12</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>be1b76e5fe6048d89c8d12946aa61e68</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>90</col>
+            <col name='amount'>1.85</col>
+            <col name='created_date'>2016-09-12</col>
+            <col name='display_date'>2016-09-12</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>d002ab85fd674a17ad34f6f096105302</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>91</col>
+            <col name='amount'>2.31</col>
+            <col name='created_date'>2016-09-13</col>
+            <col name='display_date'>2016-09-13</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>a32f206b37664b4e977579ca44c94d84</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>92</col>
+            <col name='amount'>11.2</col>
+            <col name='created_date'>2016-09-14</col>
+            <col name='display_date'>2016-09-14</col>
+            <col name='cat_id'>118</col>
+            <col name='note'>Walle</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>c1bd141a4b2847e5bc1dbb615835cbb1</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>walle</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>93</col>
+            <col name='amount'>2.63</col>
+            <col name='created_date'>2016-09-16</col>
+            <col name='display_date'>2016-09-16</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>62c8fe18672447dcbe7c975e0fc19852</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>94</col>
+            <col name='amount'>38.2</col>
+            <col name='created_date'>2016-09-17</col>
+            <col name='display_date'>2016-09-17</col>
+            <col name='cat_id'>121</col>
+            <col name='note'>Tiger</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>90955d2a242d48f3bb2457f53cea0577</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>tiger</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>95</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-17</col>
+            <col name='display_date'>2016-09-17</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>56b83194433a42fcb2c40081a1e1e883</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>96</col>
+            <col name='amount'>10</col>
+            <col name='created_date'>2016-09-17</col>
+            <col name='display_date'>2016-09-17</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Parcheggio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>10f962ab0ff44676996d9c922f88095c</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>parcheggio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>97</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-18</col>
+            <col name='display_date'>2016-09-18</col>
+            <col name='cat_id'>35</col>
+            <col name='note'>Green Peace</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>8e4624a0f8a14c3289e6b86fbd1e01e4</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>null</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>green peace</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>98</col>
+            <col name='amount'>1.2</col>
+            <col name='created_date'>2016-09-19</col>
+            <col name='display_date'>2016-09-19</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>d7bec58936b84c1e99256d36e196a944</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>99</col>
+            <col name='amount'>60</col>
+            <col name='created_date'>2016-09-21</col>
+            <col name='display_date'>2016-09-21</col>
+            <col name='cat_id'>120</col>
+            <col name='note'>Amarone per Daniele Manica - orso</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>0596900eeb3a46ef9d23b11d4217c38a</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>amarone per daniele manica - orso</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>100</col>
+            <col name='amount'>82</col>
+            <col name='created_date'>2016-09-21</col>
+            <col name='display_date'>2016-09-21</col>
+            <col name='cat_id'>1</col>
+            <col name='note'>Vino contrá malini</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>99fd7a3716144114b78b094eec559466</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>vino contra malini</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>101</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-21</col>
+            <col name='display_date'>2016-09-21</col>
+            <col name='cat_id'>120</col>
+            <col name='note'>Vino nonna</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>140ad7b3abc84fa68db0bc106b0f5d8c</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>vino nonna</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>102</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-22</col>
+            <col name='display_date'>2016-09-22</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>101ec3b99e2641888afdc397be7d82a9</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>103</col>
+            <col name='amount'>8</col>
+            <col name='created_date'>2016-09-24</col>
+            <col name='display_date'>2016-09-24</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>d7976d510dc04466bf766d94a02e7b08</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>104</col>
+            <col name='amount'>2</col>
+            <col name='created_date'>2016-09-24</col>
+            <col name='display_date'>2016-09-24</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>f75e8e197ffd4c10b2ff5d92b96067a9</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>105</col>
+            <col name='amount'>2</col>
+            <col name='created_date'>2016-09-25</col>
+            <col name='display_date'>2016-09-25</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>46abfc9b80da4d3ab4fab293c7cbbcff</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>106</col>
+            <col name='amount'>6</col>
+            <col name='created_date'>2016-09-25</col>
+            <col name='display_date'>2016-09-25</col>
+            <col name='cat_id'>3</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>1ed9f96d6485421686001e345ec10d72</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>107</col>
+            <col name='amount'>35</col>
+            <col name='created_date'>2016-09-25</col>
+            <col name='display_date'>2016-09-25</col>
+            <col name='cat_id'>15</col>
+            <col name='note'>Gasolio</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>34df0744c0dc41c3a28bfe179124a9d9</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>gasolio</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>108</col>
+            <col name='amount'>1.82</col>
+            <col name='created_date'>2016-09-26</col>
+            <col name='display_date'>2016-09-26</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>9ec8b720cb8b45f8b5b73e3b871683bf</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>109</col>
+            <col name='amount'>8.5</col>
+            <col name='created_date'>2016-09-27</col>
+            <col name='display_date'>2016-09-26</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Tergicristalli</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>0e98d3cf39354a0293d3cd4494465362</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>tergicristalli</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>110</col>
+            <col name='amount'>52.99</col>
+            <col name='created_date'>2016-09-27</col>
+            <col name='display_date'>2016-09-27</col>
+            <col name='cat_id'>23</col>
+            <col name='note'>Tastiera e mouse</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>f21b8a11f1fc4677a9d89ef98a890e0c</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>tastiera e mouse</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>111</col>
+            <col name='amount'>5</col>
+            <col name='created_date'>2016-09-27</col>
+            <col name='display_date'>2016-09-27</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>9347ed5cbc394054aafe141d6a14dfc2</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>112</col>
+            <col name='amount'>64</col>
+            <col name='created_date'>2016-09-27</col>
+            <col name='display_date'>2016-09-27</col>
+            <col name='cat_id'>12</col>
+            <col name='note'>Olio 4 litri</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>06c3c228450f4a0ea9ab5ab680cde949</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>olio 4 litri</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>113</col>
+            <col name='amount'>1322</col>
+            <col name='created_date'>2016-09-29</col>
+            <col name='display_date'>2016-09-29</col>
+            <col name='cat_id'>53</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>8b2d047dde8540a0b3555664bb36c32f</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>114</col>
+            <col name='amount'>20</col>
+            <col name='created_date'>2016-09-29</col>
+            <col name='display_date'>2016-09-29</col>
+            <col name='cat_id'>5</col>
+            <col name='note'>Ricarica</col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>483f1db76c0a4b3ab5fdc85a006686a3</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'>ricarica</col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>115</col>
+            <col name='amount'>2.71</col>
+            <col name='created_date'>2016-09-30</col>
+            <col name='display_date'>2016-09-30</col>
+            <col name='cat_id'>118</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>cd4921e360cb45e79e3bf74b5169bfe7</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+        <row>
+            <col name='id'>116</col>
+            <col name='amount'>4.35</col>
+            <col name='created_date'>2016-09-30</col>
+            <col name='display_date'>2016-09-30</col>
+            <col name='cat_id'>17</col>
+            <col name='note'></col>
+            <col name='longtitude'>0</col>
+            <col name='latitude'>0</col>
+            <col name='address'></col>
+            <col name='account_id'>1</col>
+            <col name='uuid'>210c4da273254e87bed9279a8f4eba07</col>
+            <col name='flag'>0</col>
+            <col name='remind_date'>0</col>
+            <col name='parent_id'>0</col>
+            <col name='search_note'></col>
+            <col name='bill_id'>0</col>
+            <col name='exclude_report'>0</col>
+            <col name='original_currency'>null</col>
+            <col name='mark_report'>0</col>
+            <col name='meta_data'>null</col>
+            <col name='permalink'>null</col>
+        </row>
+    </table>
+    <table name='people'></table>
+    <table name='transaction_people'></table>
+    <table name='accounts'>
+        <row>
+            <col name='id'>1</col>
+            <col name='name'>Conto bancario</col>
+            <col name='uuid'>ade21a68de20400482b5255bc8817548</col>
+            <col name='last_sync'>1470244131427</col>
+            <col name='last_sync_sub_cat'>1470244132643</col>
+            <col name='last_sync_transaction'>1470244135388</col>
+            <col name='last_sync_sub_transaction'>0</col>
+            <col name='push_status'>FALSE</col>
+            <col name='flag'>0</col>
+            <col name='cur_id'>3</col>
+            <col name='permission'>readonly</col>
+            <col name='user_id'>1</col>
+            <col name='sync_status'>TRUE</col>
+            <col name='icon'>icon_94</col>
+            <col name='quick_notification_status'>1</col>
+            <col name='sort_index'>0</col>
+            <col name='exclude_total'>0</col>
+            <col name='account_type'>0</col>
+            <col name='metadata'>null</col>
+            <col name='archived'>0</col>
+            <col name='transaction_notification'>0</col>
+            <col name='balance'>null</col>
+        </row>
+        <row>
+            <col name='id'>2</col>
+            <col name='name'>Contanti</col>
+            <col name='uuid'>f1e38527cdeb467ea464295cda5753fa</col>
+            <col name='last_sync'>1470244129645</col>
+            <col name='last_sync_sub_cat'>1470244132010</col>
+            <col name='last_sync_transaction'>0</col>
+            <col name='last_sync_sub_transaction'>0</col>
+            <col name='push_status'>FALSE</col>
+            <col name='flag'>0</col>
+            <col name='cur_id'>3</col>
+            <col name='permission'>readonly</col>
+            <col name='user_id'>1</col>
+            <col name='sync_status'>TRUE</col>
+            <col name='icon'>ic_category_give</col>
+            <col name='quick_notification_status'>0</col>
+            <col name='sort_index'>0</col>
+            <col name='exclude_total'>0</col>
+            <col name='account_type'>0</col>
+            <col name='metadata'>null</col>
+            <col name='archived'>0</col>
+            <col name='transaction_notification'>0</col>
+            <col name='balance'>null</col>
+        </row>
+    </table>
+    <table name='users'>
+        <row>
+            <col name='user_id'>1</col>
+            <col name='user_sync_id'>57a21a46b8076fd26fb0d52d</col>
+            <col name='email'>flavio.cristoforetti@gmail.com</col>
+            <col name='gold'>0</col>
+            <col name='last_sync'>1470244124523</col>
+            <col name='lock_type'>1</col>
+            <col name='hash_pass'>829424ffad3a2547b6c9622c77de3</col>
+            <col name='account_default'>1</col>
+            <col name='last_sync_campaign'>1473968888806</col>
+            <col name='last_sync_budget'>0</col>
+        </row>
+    </table>
+    <table name='categories'>
+        <row>
+            <col name='cat_id'>1</col>
+            <col name='cat_name'>Cibo e bevande</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_foodndrink</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>b62f67dbdaa74c40be60992811518798</col>
+            <col name='meta_data'>foodndrink0</col>
+        </row>
+        <row>
+            <col name='cat_id'>2</col>
+            <col name='cat_name'>Ristoranti</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_133</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>1</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>0b884138705840ce9acf4c8a418c5f7a</col>
+            <col name='meta_data'>restaurants0</col>
+        </row>
+        <row>
+            <col name='cat_id'>3</col>
+            <col name='cat_name'>Bar</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_15</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>1</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>86f77a32ccb741518944da7d83302a3a</col>
+            <col name='meta_data'>cafe0</col>
+        </row>
+        <row>
+            <col name='cat_id'>4</col>
+            <col name='cat_name'>Bollette e utenze</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_135</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>af9551d23ac144bdade3ac010fc9d626</col>
+            <col name='meta_data'>utilities0</col>
+        </row>
+        <row>
+            <col name='cat_id'>5</col>
+            <col name='cat_name'>Telefono</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_134</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>4</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>a2269c5d81374782970c2d7b06a2fde0</col>
+            <col name='meta_data'>phone0</col>
+        </row>
+        <row>
+            <col name='cat_id'>6</col>
+            <col name='cat_name'>Acqua</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_124</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>4</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>081a230fa2834da7812330406af6c6a8</col>
+            <col name='meta_data'>water0</col>
+        </row>
+        <row>
+            <col name='cat_id'>7</col>
+            <col name='cat_name'>Elettricità</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_125</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>4</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>23d594e8aaa94ec7bd3b02feacc431d8</col>
+            <col name='meta_data'>electricity0</col>
+        </row>
+        <row>
+            <col name='cat_id'>8</col>
+            <col name='cat_name'>Gas</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_139</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>4</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>231b30cc2f38458d985d242cf32f5267</col>
+            <col name='meta_data'>gas0</col>
+        </row>
+        <row>
+            <col name='cat_id'>9</col>
+            <col name='cat_name'>Televisione</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_84</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>4</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>d48851d626054b79b1017c80b0db1117</col>
+            <col name='meta_data'>television0</col>
+        </row>
+        <row>
+            <col name='cat_id'>10</col>
+            <col name='cat_name'>Internet</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_126</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>4</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>9a2bb838b5564feabb496988c093e81f</col>
+            <col name='meta_data'>internet0</col>
+        </row>
+        <row>
+            <col name='cat_id'>11</col>
+            <col name='cat_name'>Affitti e noleggi</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_136</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>4</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>c987b1be02b44c458c67271649a8a672</col>
+            <col name='meta_data'>rentals0</col>
+        </row>
+        <row>
+            <col name='cat_id'>12</col>
+            <col name='cat_name'>Trasporti</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_transport</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>30aadaa51e294246ab49a3038a2427ca</col>
+            <col name='meta_data'>transport0</col>
+        </row>
+        <row>
+            <col name='cat_id'>13</col>
+            <col name='cat_name'>Taxi</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_127</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>12</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>5067cd7f82ce43a9ad947ab7eaac4c4d</col>
+            <col name='meta_data'>taxi0</col>
+        </row>
+        <row>
+            <col name='cat_id'>14</col>
+            <col name='cat_name'>Tariffa parcheggio</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_128</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>12</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>f205cf3ddd954b0f9e64b64467aefd6c</col>
+            <col name='meta_data'>parking0</col>
+        </row>
+        <row>
+            <col name='cat_id'>15</col>
+            <col name='cat_name'>Carburante</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_129</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>12</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>0162fa8de9a94e2f856901ea7940e65a</col>
+            <col name='meta_data'>petrol0</col>
+        </row>
+        <row>
+            <col name='cat_id'>16</col>
+            <col name='cat_name'>Manutenzione</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_130</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>12</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>92aa2a3c9cf946798b5c1831b6d5b6bf</col>
+            <col name='meta_data'>maintenance0</col>
+        </row>
+        <row>
+            <col name='cat_id'>17</col>
+            <col name='cat_name'>Acquisti</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_shopping</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>6a9faa4532a64fea8299d87fa37a6725</col>
+            <col name='meta_data'>shopping0</col>
+        </row>
+        <row>
+            <col name='cat_id'>18</col>
+            <col name='cat_name'>Abbigliamento</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_17</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>17</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>450ef52ed8124f2bb007cc68f32beec5</col>
+            <col name='meta_data'>clothing0</col>
+        </row>
+        <row>
+            <col name='cat_id'>19</col>
+            <col name='cat_name'>Calzature</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_131</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>17</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>b2eddd0562cb456a833ab274a0f19656</col>
+            <col name='meta_data'>footwear0</col>
+        </row>
+        <row>
+            <col name='cat_id'>20</col>
+            <col name='cat_name'>Accessori</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_63</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>17</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>0c461e451946429cab6f34c0a0cc5c95</col>
+            <col name='meta_data'>accessories0</col>
+        </row>
+        <row>
+            <col name='cat_id'>21</col>
+            <col name='cat_name'>Elettronica</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_9</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>17</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>8607a1b7c48d48d3b4f85412102e2736</col>
+            <col name='meta_data'>electronics0</col>
+        </row>
+        <row>
+            <col name='cat_id'>22</col>
+            <col name='cat_name'>Amici e amore</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_friendnlover</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>949aa9464cea48a19b6add9386f59404</col>
+            <col name='meta_data'>friendnlover0</col>
+        </row>
+        <row>
+            <col name='cat_id'>23</col>
+            <col name='cat_name'>Divertimento</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_entertainment</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>6cb2c661adb3494d8430798bdf4b3a34</col>
+            <col name='meta_data'>entertainment0</col>
+        </row>
+        <row>
+            <col name='cat_id'>24</col>
+            <col name='cat_name'>Film</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_6</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>23</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>0ddb93b26b864f33939fc2492b3f202e</col>
+            <col name='meta_data'>movies0</col>
+        </row>
+        <row>
+            <col name='cat_id'>25</col>
+            <col name='cat_name'>Giochi</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_33</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>23</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>defa5b03ed9c4899a51cf09f2bc1ed4a</col>
+            <col name='meta_data'>games0</col>
+        </row>
+        <row>
+            <col name='cat_id'>26</col>
+            <col name='cat_name'>Viaggi</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_travel</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>0a212dbd54d64de28a23229f4e92c160</col>
+            <col name='meta_data'>travel0</col>
+        </row>
+        <row>
+            <col name='cat_id'>27</col>
+            <col name='cat_name'>Salute e forma fisica</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_medical</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>0618ed1dd25d4cfc9aa24aee5ac2b74e</col>
+            <col name='meta_data'>medical0</col>
+        </row>
+        <row>
+            <col name='cat_id'>28</col>
+            <col name='cat_name'>Sport</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_70</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>27</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>3c069431017c44a49c602b218d17d40a</col>
+            <col name='meta_data'>sports0</col>
+        </row>
+        <row>
+            <col name='cat_id'>29</col>
+            <col name='cat_name'>Medico</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_doctor</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>27</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>1efcdc92e1b34681a1d7bc2f3931b341</col>
+            <col name='meta_data'>doctor0</col>
+        </row>
+        <row>
+            <col name='cat_id'>30</col>
+            <col name='cat_name'>Farmacia</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_pharmacy</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>27</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>feadff4d4c3a490da6737eb1ac30c8f9</col>
+            <col name='meta_data'>pharmacy0</col>
+        </row>
+        <row>
+            <col name='cat_id'>31</col>
+            <col name='cat_name'>Cura personale</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_132</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>27</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>c72c97e019ef4b688536452242e1a5e6</col>
+            <col name='meta_data'>personal_care0</col>
+        </row>
+        <row>
+            <col name='cat_id'>32</col>
+            <col name='cat_name'>Regali e donazioni</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_donations</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>d46db3bb2e54420ebffb0518e7600364</col>
+            <col name='meta_data'>gifts_donations0</col>
+        </row>
+        <row>
+            <col name='cat_id'>33</col>
+            <col name='cat_name'>Matrimonio</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_10</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>32</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>560601c16c6b4412ad859a126e09da17</col>
+            <col name='meta_data'>marriage0</col>
+        </row>
+        <row>
+            <col name='cat_id'>34</col>
+            <col name='cat_name'>Funerale</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_11</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>32</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>bbbcb4fc7cc14ee28986a70860e1260c</col>
+            <col name='meta_data'>funeral0</col>
+        </row>
+        <row>
+            <col name='cat_id'>35</col>
+            <col name='cat_name'>Beneficenza</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_give</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>32</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>67f79a45158c434dbd205c654ef420a2</col>
+            <col name='meta_data'>charity0</col>
+        </row>
+        <row>
+            <col name='cat_id'>36</col>
+            <col name='cat_name'>Famiglia</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_family</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>42bdd2ea53aa45bb839951028dc5360d</col>
+            <col name='meta_data'>family0</col>
+        </row>
+        <row>
+            <col name='cat_id'>37</col>
+            <col name='cat_name'>Bambini e neonati</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_38</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>36</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>d749656b5810436fa33363225fbf2b55</col>
+            <col name='meta_data'>children0</col>
+        </row>
+        <row>
+            <col name='cat_id'>38</col>
+            <col name='cat_name'>Migliorie alla casa</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_8</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>36</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>3cfc23eb95ae45e5a8fc9958bdf6ca61</col>
+            <col name='meta_data'>home_improvement0</col>
+        </row>
+        <row>
+            <col name='cat_id'>39</col>
+            <col name='cat_name'>Servizi per la casa</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_54</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>36</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>d3882a57d4d64d5bbbf31fb8e8948d85</col>
+            <col name='meta_data'>home_services0</col>
+        </row>
+        <row>
+            <col name='cat_id'>40</col>
+            <col name='cat_name'>Animali domestici</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_53</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>36</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>b2e6d7df380b4f23b040e4080ceae11d</col>
+            <col name='meta_data'>pets0</col>
+        </row>
+        <row>
+            <col name='cat_id'>41</col>
+            <col name='cat_name'>Educazione</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_education</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>1105e491ab59471fb15f90a3626e3944</col>
+            <col name='meta_data'>education0</col>
+        </row>
+        <row>
+            <col name='cat_id'>42</col>
+            <col name='cat_name'>Libri</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_35</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>41</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>3849d23af69445b984af75c608bcd5a1</col>
+            <col name='meta_data'>books0</col>
+        </row>
+        <row>
+            <col name='cat_id'>43</col>
+            <col name='cat_name'>Investimento</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_invest</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>df2a1fc02290499685ee87256291bdf7</col>
+            <col name='meta_data'>invest0</col>
+        </row>
+        <row>
+            <col name='cat_id'>44</col>
+            <col name='cat_name'>Affari</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_59</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>407ec427f2424037a929248876b7409c</col>
+            <col name='meta_data'>business0</col>
+        </row>
+        <row>
+            <col name='cat_id'>45</col>
+            <col name='cat_name'>Assicurazioni</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_137</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>02ce70e52b514a35ab66ac6772990ebf</col>
+            <col name='meta_data'>insurance0</col>
+        </row>
+        <row>
+            <col name='cat_id'>46</col>
+            <col name='cat_name'>Prestito</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_loan</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>b9b14012daa84accbc85adc1556d9029</col>
+            <col name='meta_data'>IS_LOAN</col>
+        </row>
+        <row>
+            <col name='cat_id'>47</col>
+            <col name='cat_name'>Tasse</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_138</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>2f76e3de3ce44ecdad45ce228d63d23a</col>
+            <col name='meta_data'>fees_charges0</col>
+        </row>
+        <row>
+            <col name='cat_id'>48</col>
+            <col name='cat_name'>Prelievo</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_withdrawal</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>91c674c88bf1424dbbb469799bfddde0</col>
+            <col name='meta_data'>IS_WITHDRAWAL</col>
+        </row>
+        <row>
+            <col name='cat_id'>49</col>
+            <col name='cat_name'>Rimborso</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_141</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>06d6c40827a54a6db1def859757cd0ec</col>
+            <col name='meta_data'>IS_REPAYMENT</col>
+        </row>
+        <row>
+            <col name='cat_id'>50</col>
+            <col name='cat_name'>Altra spesa</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_other_expense</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>5044a1e481aa479cbc1dc7047b7f2e06</col>
+            <col name='meta_data'>IS_OTHER_EXPENSE</col>
+        </row>
+        <row>
+            <col name='cat_id'>51</col>
+            <col name='cat_name'>Premio</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>ic_category_award</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>c83dd9e97b38434c85551d1a3b50af07</col>
+            <col name='meta_data'>award0</col>
+        </row>
+        <row>
+            <col name='cat_id'>52</col>
+            <col name='cat_name'>Interessi</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>ic_category_interestmoney</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>8be57991461b4e989a7cef842b7ca18e</col>
+            <col name='meta_data'>interestmoney0</col>
+        </row>
+        <row>
+            <col name='cat_id'>53</col>
+            <col name='cat_name'>Stipendio</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>ic_category_salary</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>7fbb31eee3ef43f3aa3cc2f9d10946fb</col>
+            <col name='meta_data'>salary0</col>
+        </row>
+        <row>
+            <col name='cat_id'>54</col>
+            <col name='cat_name'>Debito</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>ic_category_debt</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>f738f97931c14a788bcbbbbf287f0888</col>
+            <col name='meta_data'>IS_DEBT</col>
+        </row>
+        <row>
+            <col name='cat_id'>55</col>
+            <col name='cat_name'>Regali</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>ic_category_give</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>91a4839b74bf4f31ac43d4bd9d06c092</col>
+            <col name='meta_data'>IS_GIVE</col>
+        </row>
+        <row>
+            <col name='cat_id'>56</col>
+            <col name='cat_name'>Vendita</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>ic_category_selling</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>07a8d372f4794460b7a253b555d3ee10</col>
+            <col name='meta_data'>selling0</col>
+        </row>
+        <row>
+            <col name='cat_id'>57</col>
+            <col name='cat_name'>Recupero crediti</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>icon_140</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>98fe34f484df40b69190773ba010f8db</col>
+            <col name='meta_data'>IS_DEBT_COLLECTION</col>
+        </row>
+        <row>
+            <col name='cat_id'>58</col>
+            <col name='cat_name'>Altra entrata</col>
+            <col name='cat_type'>1</col>
+            <col name='cat_img'>ic_category_other_income</col>
+            <col name='account_id'>1</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>1bbcbe7724474b6b8c589312bc57a54b</col>
+            <col name='meta_data'>IS_OTHER_INCOME</col>
+        </row>
+        <row>
+            <col name='cat_id'>59</col>
+            <col name='cat_name'>Cibo e bevande</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_foodndrink</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>0b31e7e782b9489598cfc6712fc6cc30</col>
+            <col name='meta_data'>foodndrink0</col>
+        </row>
+        <row>
+            <col name='cat_id'>60</col>
+            <col name='cat_name'>Ristoranti</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_133</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>59</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>7495f4f2d5004b23ab6582a779366c25</col>
+            <col name='meta_data'>restaurants0</col>
+        </row>
+        <row>
+            <col name='cat_id'>61</col>
+            <col name='cat_name'>Bar</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_15</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>59</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>d55548cab7184cf28217ad60c91b1372</col>
+            <col name='meta_data'>cafe0</col>
+        </row>
+        <row>
+            <col name='cat_id'>62</col>
+            <col name='cat_name'>Bollette e utenze</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_135</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>ae587f34116c43b5989839463771803b</col>
+            <col name='meta_data'>utilities0</col>
+        </row>
+        <row>
+            <col name='cat_id'>63</col>
+            <col name='cat_name'>Telefono</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_134</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>62</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>3af4d7198de44f949dd0a66eb0e4dac0</col>
+            <col name='meta_data'>phone0</col>
+        </row>
+        <row>
+            <col name='cat_id'>64</col>
+            <col name='cat_name'>Acqua</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_124</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>62</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>487e88444dbe414da63be697f6352beb</col>
+            <col name='meta_data'>water0</col>
+        </row>
+        <row>
+            <col name='cat_id'>65</col>
+            <col name='cat_name'>Elettricità</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_125</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>62</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>404005fcd0a346e4a617d0ac1e4e9153</col>
+            <col name='meta_data'>electricity0</col>
+        </row>
+        <row>
+            <col name='cat_id'>66</col>
+            <col name='cat_name'>Gas</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_139</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>62</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>caea825a2fc744d0b7fd75e8a2fada30</col>
+            <col name='meta_data'>gas0</col>
+        </row>
+        <row>
+            <col name='cat_id'>67</col>
+            <col name='cat_name'>Televisione</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_84</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>62</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>eed2acbd96cc440dbef08ba4a2e437b1</col>
+            <col name='meta_data'>television0</col>
+        </row>
+        <row>
+            <col name='cat_id'>68</col>
+            <col name='cat_name'>Internet</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_126</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>62</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>b320bdd1581d435c87e74d799df58f54</col>
+            <col name='meta_data'>internet0</col>
+        </row>
+        <row>
+            <col name='cat_id'>69</col>
+            <col name='cat_name'>Affitti e noleggi</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_136</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>62</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>3e9d942c34d84109af9dec5148b3ad78</col>
+            <col name='meta_data'>rentals0</col>
+        </row>
+        <row>
+            <col name='cat_id'>70</col>
+            <col name='cat_name'>Trasporti</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_transport</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>4eaaabf121a6428a801f318298a4d4ee</col>
+            <col name='meta_data'>transport0</col>
+        </row>
+        <row>
+            <col name='cat_id'>71</col>
+            <col name='cat_name'>Taxi</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_127</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>70</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>8019aec893c841ba9da58fde59e16bed</col>
+            <col name='meta_data'>taxi0</col>
+        </row>
+        <row>
+            <col name='cat_id'>72</col>
+            <col name='cat_name'>Tariffa parcheggio</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_128</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>70</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>6963c96b5ba44e6ab2f3432f8840881c</col>
+            <col name='meta_data'>parking0</col>
+        </row>
+        <row>
+            <col name='cat_id'>73</col>
+            <col name='cat_name'>Carburante</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_129</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>70</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>ae6545091de04dc990595ccfbd274278</col>
+            <col name='meta_data'>petrol0</col>
+        </row>
+        <row>
+            <col name='cat_id'>74</col>
+            <col name='cat_name'>Manutenzione</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_130</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>70</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>27fac463efee48999df28442ae63f75d</col>
+            <col name='meta_data'>maintenance0</col>
+        </row>
+        <row>
+            <col name='cat_id'>75</col>
+            <col name='cat_name'>Acquisti</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_shopping</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>1b167698227e4a28b459ab44ebe801d8</col>
+            <col name='meta_data'>shopping0</col>
+        </row>
+        <row>
+            <col name='cat_id'>76</col>
+            <col name='cat_name'>Abbigliamento</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_17</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>75</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>ad67f921faae4ae1a1e8177905d40cb2</col>
+            <col name='meta_data'>clothing0</col>
+        </row>
+        <row>
+            <col name='cat_id'>77</col>
+            <col name='cat_name'>Calzature</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_131</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>75</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>e3d9fd1832e344fea7f888a0c826e3d9</col>
+            <col name='meta_data'>footwear0</col>
+        </row>
+        <row>
+            <col name='cat_id'>78</col>
+            <col name='cat_name'>Accessori</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_63</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>75</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>880dde395aed468d926bbae628cca65a</col>
+            <col name='meta_data'>accessories0</col>
+        </row>
+        <row>
+            <col name='cat_id'>79</col>
+            <col name='cat_name'>Elettronica</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>icon_9</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>75</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>669bb37615b44329b730d97b8ffdffa8</col>
+            <col name='meta_data'>electronics0</col>
+        </row>
+        <row>
+            <col name='cat_id'>80</col>
+            <col name='cat_name'>Amici e amore</col>
+            <col name='cat_type'>2</col>
+            <col name='cat_img'>ic_category_friendnlover</col>
+            <col name='account_id'>2</col>
+            <col name='parent_id'>0</col>
+            <col name='flag'>0</col>
+            <col name='uuid'>bb531eb4986844d98584afbd64af71bf</col>
+            <col name='meta_data'>friendnlover0</col>
+        </row>

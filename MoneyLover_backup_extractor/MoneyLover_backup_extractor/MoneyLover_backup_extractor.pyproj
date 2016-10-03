@@ -24,6 +24,9 @@
   <ItemGroup>
     <Compile Include="MoneyLover_backup_extractor.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="auto_backup_2016-10-01_00-05-21.mlx" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
