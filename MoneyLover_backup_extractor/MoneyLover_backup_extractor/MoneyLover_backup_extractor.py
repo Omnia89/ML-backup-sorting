@@ -1,34 +1,56 @@
 import xml.etree.ElementTree as ET
 import os.path
 
+class moneylover_parser:
 
-def simplifyMXL(mxl_file, destination_path):
-    if not os.path.isfile(mxl_file):
-        print('Error: file doesn\'t exists')
-        return False
-    extension = os.path.splitext(mxl_file)
-    if extension != '.mxl':
-        print('Error: wrong file extension')
-        return False
+    def __init__(self, file_path):
+        if not os.path.isfile(file_path):
+            print('Error: file doesn\'t exists')
+            return []
+        extension = os.path.splitext(file_path)
+        if extension != '.mxl':
+            print('Error: wrong file extension')
+            return []
+        self.file_path = file_path
+        print('File imported')
 
-    root = ET.parse(mxl_file)
-    first_node = root.getroot()
-    
-    for table_node in first_node:
-        if table_node.tag = 'table':
-            pass
+    def simplifyMXL(self, destination_path):
 
-    return True
+        root = ET.parse(self.file_path)
+        first_node = root.getroot()
+        
+        self.destination_path = destination_path + '/extracted_mxl/'
+        
+        for table_node in first_node:
+            if table_node.tag = 'table':
+                extractTable(self,table_node)
 
-def extractTable(table_node, detination_path):
-    if not table_node[0][0].tag = 'row':
-        print('Warning: no rows found for table node named: ' + table_node.attrib['name'])
-        return False
+        return True
 
-    #stringa per la riga
+    def extractTable(self, table_node):
+        if not table_node[0][0].tag = 'row':
+            print('Warning: no rows found for table node named: ' + table_node.attrib['name'])
+            return False
 
-    #primo ciclo per i nomi colonna
+        table_name = table_node.attrib['name']
+        output_file = open(self.destination_path + table_name, 'w')
+        
+        
+        text_row = ''
 
-    #ciclo tutto
+        for col_name in table_node[0]:
+            text_row += col_name.attrib['name'] + ';'
+        text_row = text_row[:-1] + '\n'
 
-    return True
+        output_file.write(text_row)
+        
+        for column in table_node:
+            text_row = ''
+            for line in column:
+                text_row += (line.text if line.text else 'Null') + ';'
+            text_row = text_row[:-1] + '\n'
+            output_file.write(text_row)
+
+        output_file.close()
+        print('Info: exported table named: ' + table_node.attrib['name'])
+        return True
