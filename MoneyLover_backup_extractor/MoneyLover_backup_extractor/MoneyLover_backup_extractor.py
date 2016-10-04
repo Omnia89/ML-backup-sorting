@@ -20,15 +20,15 @@ class moneylover_parser:
         first_node = root.getroot()
         
         self.destination_path = destination_path + '/extracted_mxl/'
-        
+
         for table_node in first_node:
-            if table_node.tag = 'table':
+            if table_node.tag == 'table':
                 extractTable(self,table_node)
 
         return True
 
     def extractTable(self, table_node):
-        if not table_node[0][0].tag = 'row':
+        if not table_node[0][0].tag == 'row':
             print('Warning: no rows found for table node named: ' + table_node.attrib['name'])
             return False
 
