@@ -1,16 +1,17 @@
 import xml.etree.ElementTree as ET
 import os.path
-
+#test = moneylover_parser('C:/Users/flavi/Downloads/test.mlx')
+#test.simplifyMXL('C:/Users/flavi/Downloads/test')
 class moneylover_parser:
 
     def __init__(self, file_path):
         if not os.path.isfile(file_path):
             print('Error: file doesn\'t exists')
-            return []
+            return
         extension = os.path.splitext(file_path)
-        if extension != '.mxl':
+        if extension[1] != '.mlx':
             print('Error: wrong file extension')
-            return []
+            return
         self.file_path = file_path
         print('File imported')
 
@@ -23,18 +24,21 @@ class moneylover_parser:
 
         for table_node in first_node:
             if table_node.tag == 'table':
-                extractTable(self,table_node)
+                self.extractTable(table_node)
 
         return True
 
     def extractTable(self, table_node):
-        if not table_node[0][0].tag == 'row':
+        if not len(list(table_node)):
             print('Warning: no rows found for table node named: ' + table_node.attrib['name'])
             return False
 
         table_name = table_node.attrib['name']
-        output_file = open(self.destination_path + table_name, 'w')
-        
+
+        if not os.path.exists(self.destination_path):
+            os.makedirs(self.destination_path)
+
+        output_file = open(self.destination_path + table_name + '.csv', 'w', encoding='utf-8')
         
         text_row = ''
 
