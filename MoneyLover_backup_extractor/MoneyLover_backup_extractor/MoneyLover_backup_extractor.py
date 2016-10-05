@@ -12,30 +12,44 @@ class moneylover_parser:
         if extension[1] != '.mlx':
             print('Error: wrong file extension')
             return
+
         self.file_path = file_path
-        print('File imported')
-
-    #TODO: check if passed path, in case add /extraction path/
-    def simplifyMXL(self, destination_path):
-
-        root = ET.parse(self.file_path)
-        first_node = root.getroot()
+        self.destination_path = os.path.split(self.file_path)[0] + '/extracted_mxl/'
         
-        self.destination_path = destination_path + '/extracted_mxl/'
+        root = ET.parse(self.file_path)
+        self.first_node = root.getroot()
 
-        for table_node in first_node:
+        print('File imported')        
+
+    def extraxtAll(self, destination_path = None):
+        
+        if destination_path != None:
+            self.destination_path = destination_path if destination_path[-1:] == '/' else destination_path + '/'
+        else:
+            self.destination_path = os.path.split(self.file_path)[0] + '/extracted_mxl/'
+
+        for table_node in self.first_node:
             if table_node.tag == 'table':
-                self.extractTable(table_node)
+                self.extractTable(table_node.attrib['name'])
 
         return True
 
-    #TODO: edit function to accept table_name, so it can be called directly if wanted one table
-    def extractTable(self, table_node):
-        if not len(list(table_node)):
-            print('Warning: no rows found for table node named: ' + table_node.attrib['name'])
+    def extractTable(self, table_name):
+        if not self.destination_path:
+            print('Error: no destination path given')
             return False
 
-        table_name = table_node.attrib['name']
+        if not table_name:
+            print('Error: no table name given')
+            return False
+
+        find_node = self.first_node.findall('.//table[@name="' + table_name + '"]')
+        table_index = self.first_node.getchildren().index(find_node[0])
+        table_node = self.first_node[table_index]
+
+        if not len(list(table_node)):
+            print('Warning: no rows found for table node named: ' + table_name)
+            return False
 
         if not os.path.exists(self.destination_path):
             os.makedirs(self.destination_path)
