@@ -15,6 +15,7 @@ class moneylover_parser:
         self.file_path = file_path
         print('File imported')
 
+    #TODO: check if passed path, in case add /extraction path/
     def simplifyMXL(self, destination_path):
 
         root = ET.parse(self.file_path)
@@ -28,6 +29,7 @@ class moneylover_parser:
 
         return True
 
+    #TODO: edit function to accept table_name, so it can be called directly if wanted one table
     def extractTable(self, table_node):
         if not len(list(table_node)):
             print('Warning: no rows found for table node named: ' + table_node.attrib['name'])
