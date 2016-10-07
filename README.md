@@ -14,10 +14,9 @@ So I ended up doing a tool by myself, a simple python code that reads from the b
 
 - Download the `MoneyLover_backup_extractor.py` file
 - Download the backup file `.mlx` from the app: `Settings` -> `Restore backup` -> `Tap one` -> `Share`
-- Open python IDLE, import the `moneylover_parser` class form the file and use it like in the example>
+- Open the `moneylover_parser` file with the python IDLE and use it like in the example>
 
 ```python
-import moneylover_parser
 
 extractor = moneylover_parser('C:/Downloads/backup.mlx')
 
