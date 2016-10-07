@@ -21,7 +21,7 @@ class moneylover_parser:
 
         print('File imported')        
 
-    def extraxtAll(self, destination_path = None):
+    def extractAll(self, destination_path = None):
         
         if destination_path != None:
             self.destination_path = destination_path if destination_path[-1:] == '/' else destination_path + '/'
