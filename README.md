@@ -21,7 +21,7 @@ So I ended up doing a tool by myself, a simple python code that reads from the b
 extractor = moneylover_parser('C:/Downloads/backup.mlx')
 
 #for extract all tables, even 'currencies'
-extractor.extractAll() #you can specify the destination path as parameter, if not it create a /extracted_mxl/ folder
+extractor.extractAll() #you can specify the destination path as parameter, if not it will create a /extracted_mxl/ folder
 
 #for only a specified table
 extractor.extractTable('categories') #specify the table name
